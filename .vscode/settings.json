@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "python",
+    "python.languageServer": "Pylance",
+    "python.analysis.extraPaths": [
+        "C:\\python311\\Lib\\site-packages"
+    ]
+}
